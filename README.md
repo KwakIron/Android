@@ -4,3 +4,4 @@
 - [TableLayout](https://github.com/KwakIron/TableLayout/tree/master)
 - [FrameLayout](https://github.com/KwakIron/FrameLayout/tree/master)
 - [GridLayout](https://github.com/KwakIron/GridLayout/tree/master)
+- [TextViewProperty](https://github.com/KwakIron/TextViewProperty/tree/master)
