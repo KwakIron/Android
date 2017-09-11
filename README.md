@@ -5,3 +5,4 @@
 - [FrameLayout](https://github.com/KwakIron/FrameLayout/tree/master)
 - [GridLayout](https://github.com/KwakIron/GridLayout/tree/master)
 - [TextViewProperty](https://github.com/KwakIron/TextViewProperty/tree/master)
+- [EditText](https://github.com/KwakIron/EditText/tree/master)
