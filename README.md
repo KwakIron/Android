@@ -10,4 +10,5 @@
 - [ToggleButton](https://github.com/KwakIron/ToggleButton)
 - [ProgressBar](https://github.com/KwakIron/ProgressBar/tree/master)
 - [ScrollView](https://github.com/KwakIron/ScrollView/tree/master)
+- [SeekBar](https://github.com/KwakIron/SeekBar/tree/master)
 - [Date&Time](https://github.com/KwakIron/DataTime/tree/master)
