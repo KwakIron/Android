@@ -7,6 +7,7 @@
 - [TextViewProperty](https://github.com/KwakIron/TextViewProperty/tree/master)
 - [EditText](https://github.com/KwakIron/EditText/tree/master)
 - [RadioButton](https://github.com/KwakIron/RadioButton)
+- [ToggleButton](https://github.com/KwakIron/ToggleButton)
 - [ProgressBar](https://github.com/KwakIron/ProgressBar/tree/master)
 - [ScrollView](https://github.com/KwakIron/ScrollView/tree/master)
 - [Date&Time](https://github.com/KwakIron/DataTime/tree/master)
