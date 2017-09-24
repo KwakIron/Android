@@ -15,3 +15,4 @@
 - [Spinner](https://github.com/KwakIron/Spinner)
 - [RecyclerView](https://github.com/KwakIron/RecyclerView/tree/master)
 - [AutoCompleteTextView](https://github.com/KwakIron/AutoCompleteTextView)
+- [ExpandableAdapter](https://github.com/KwakIron/ExpandableAdapter/tree/master)
