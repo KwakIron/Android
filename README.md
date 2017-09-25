@@ -17,3 +17,4 @@
 - [AutoCompleteTextView](https://github.com/KwakIron/AutoCompleteTextView)
 - [ExpandableAdapter](https://github.com/KwakIron/ExpandableAdapter/tree/master)
 - [ViewFlipper](https://github.com/KwakIron/ViewFlipper/tree/master)
+- [Notification](https://github.com/KwakIron/Notification/tree/master)
