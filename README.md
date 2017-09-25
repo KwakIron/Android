@@ -19,3 +19,4 @@
 - [ViewFlipper](https://github.com/KwakIron/ViewFlipper/tree/master)
 - [Notification](https://github.com/KwakIron/Notification/tree/master)
 - [AlertDialog](https://github.com/KwakIron/AlertDialog/tree/master)
+- [ProgressDialog](https://github.com/KwakIron/ProgressDialog/tree/master)
